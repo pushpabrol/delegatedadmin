@@ -14,7 +14,7 @@ header.dashboard-header nav #header {
   background-image: url("https://wwwrs.massmutual.com/rsstaticfiles/retire/mobile/MMTRAC.png") !important;
 }
 
-btn btn-success pull-right new {
+button.new {
 display: none !important;
 }
 
