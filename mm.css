@@ -15,6 +15,6 @@ header.dashboard-header nav #header {
 }
 
 btn btn-success pull-right new {
-display: none;
+display: none !important;
 }
 
