@@ -1,0 +1,4 @@
+{
+"coke" : ["Administrator", "Operations", "Supervisor", "User"],
+"pepsi" : ["Dealer", "Agent", "Employee"]
+}
