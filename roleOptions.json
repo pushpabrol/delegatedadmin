@@ -3,6 +3,6 @@
 "pepsi" : ["Dealer", "Agent", "Employee"],
 "air" : ["Customer-Admin"],
 "National Beverage" : ["Dealer", "Agent", "Employee"],
-"Pete's Sodas" : ["Dealer", "Agent", "Employee"],"
+"Pete's Sodas" : ["Dealer", "Agent", "Employee"],
 "orgs" : ["coke","pepsi","National Beverage","Hamoud Boualem","Pete's Sodas"]
 }
