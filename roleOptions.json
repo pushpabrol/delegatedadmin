@@ -1,5 +1,6 @@
 {
 "coke" : ["Administrator", "Operations", "Supervisor", "User"],
 "pepsi" : ["Dealer", "Agent", "Employee"],
-"air" : ["Customer-Admin"]
+"air" : ["Customer-Admin"],
+"orgs" : ["coke","pepsi","National Beverage","Hamoud Boualem"]
 }
