@@ -1,0 +1,5 @@
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/sandstone/bootstrap.min.css");
+header.dashboard-header nav #header {
+  background-image: url("https://425business.com/wp-content/uploads/2015/07/Auth0-logo.png") !important;
+}
