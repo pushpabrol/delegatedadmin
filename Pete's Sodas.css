@@ -1,1 +1,6 @@
 
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/sandstone/bootstrap.min.css");
+header.dashboard-header nav #header {
+  background-image: url("https://cdn.shopify.com/s/files/1/0387/2401/t/27/assets/logo.png?6251478818500783801") !important;
+}
