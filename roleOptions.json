@@ -1,8 +1,8 @@
 {
 "coke" : ["Administrator", "Operations", "Supervisor", "User"],
-"pepsi" : ["Dealer", "Agent", "Employee"],
+"pepsi" : ["Administrator", "Operations", "Supervisor", "User"],
 "air" : ["Customer-Admin"],
-"National Beverage" : ["Dealer", "Agent", "Employee"],
-"Pete's Sodas" : ["Dealer", "Agent", "Employee"],
+"National Beverage" : ["Administrator", "Operations", "Supervisor", "User"],
+"Pete's Sodas" : ["Administrator", "Operations", "Supervisor", "User"],
 "orgs" : ["coke","pepsi","National Beverage","Hamoud Boualem","Pete's Sodas"]
 }
