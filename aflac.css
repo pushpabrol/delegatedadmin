@@ -1,0 +1,4 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/sandstone/bootstrap.min.css");
+header.dashboard-header nav #header {
+  background-image: url("https://s3.amazonaws.com/freebiesupply/large/2x/aflac-logo-png-transparent.png") !important;
+}
