@@ -4,5 +4,6 @@
 "air" : ["Customer-Admin"],
 "National Beverage" : ["Administrator", "Operations", "Supervisor", "User"],
 "Pete's Sodas" : ["Administrator", "Operations", "Supervisor", "User"],
-"orgs" : ["coke","pepsi","National Beverage","Hamoud Boualem","Pete's Sodas"]
+"aflac" :["User", "Administrator", "Operations","Supervisor"],
+"orgs" : ["coke","pepsi","National Beverage","Hamoud Boualem","Pete's Sodas","aflac"]
 }
